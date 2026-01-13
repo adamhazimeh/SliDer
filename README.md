@@ -1,3 +1,3 @@
 # Semantic Document Derendering: SVG Reconstruction via Vision-Language Modeling (AAAI 2026).
 
-The code and dataset will be released soon.
+[Dataset](https://huggingface.co/datasets/ahazimeh/slide2svg) | [Paper (arXiv)](https://www.arxiv.org/abs/2511.13478) | Code (Coming soon)
